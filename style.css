@@ -1,0 +1,58 @@
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+  background-color: seashell;
+  font-family: "Georgia", serif;
+  color: #333;
+  line-height: 1.6;
+  padding-bottom: 40px;
+}
+
+h1 {
+  font-family: "Georgia", serif;
+  font-size: 3em;
+  margin-bottom: 0.3em;
+}
+
+h2, h3 {
+  font-family: "Georgia", serif;
+  margin-top: 20px;
+}
+
+p, li {
+  font-size: 1em;
+  margin-bottom: 1em;
+}
+
+header {
+  text-align: center;
+  padding: 40px 20px;
+  background-color: ivory;
+}
+
+section {
+  padding: 20px;
+  background-color: beige;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+
+section.style {
+  background-color: linen;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 800px;
+  margin: 20px auto;
+}
